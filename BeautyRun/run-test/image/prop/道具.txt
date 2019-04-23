@@ -1,0 +1,6 @@
+bluepill.png 补充法力值(+100)
+gold.png      金币+10
+bigpill.png    人物变大
+xishou.png   吸收所有的金币
+redpill.png   补充生命+100
+star.png        特技-横向冲刺 无敌

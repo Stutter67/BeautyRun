@@ -1,0 +1,1 @@
+boss右侧的图像的图集  (使用graphics库)

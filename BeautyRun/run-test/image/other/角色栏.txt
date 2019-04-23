@@ -1,0 +1,5 @@
+bar1.png  血量条(0-500)
+bar2.png  法力条(0-100)
+barBox.png  框
+headBg.png  头像框
+distance.png  行进距离
